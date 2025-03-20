@@ -1,0 +1,42 @@
+[
+  {
+    "fields": {
+      "body": "1st todo",
+      "title": "1st todo"
+    },
+    "model": "todos.todo",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "body": "body ...",
+      "title": "2nd todo"
+    },
+    "model": "todos.todo",
+    "pk": 2
+  },
+  {
+    "fields": {
+      "body": "Its time to learn",
+      "title": "Learn HTML"
+    },
+    "model": "todos.todo",
+    "pk": 3
+  },
+  {
+    "fields": {
+      "body": "Forth body",
+      "title": "4th todo"
+    },
+    "model": "todos.todo",
+    "pk": 4
+  },
+  {
+    "fields": {
+      "body": "Fifth body",
+      "title": "5th todo"
+    },
+    "model": "todos.todo",
+    "pk": 5
+  }
+]
